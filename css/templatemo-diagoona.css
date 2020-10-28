@@ -265,7 +265,7 @@ textarea {
     }
 
     .tm-content { margin-top: 20px; }
-    .tm-site-footer { padding-top: 40px; }
+    .tm-site-footer { padding-top: 40px;  font-size: 0.75rem;}
     .tm-col-left { width: 40%; }
 
     .tm-col-right {
